@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<h3 align="center">Game dev and game designer who love to try new things.</h3>
+<h3 align="center">Game dev and game designer who loves to try new things.</h3>
 
 
 
